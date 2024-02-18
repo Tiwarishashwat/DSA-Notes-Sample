@@ -2,7 +2,7 @@
 
 ## What to cover?
 ### 1. Data Structure - Stack, Queue, Graph
-### 2. Algorithm - Binary Search, Rabbit-here technique
+### 2. Algorithm - Binary Search, Rabbit-here technique, etc
 ### 3. Theory - Class, Objects, etc
 ### 4. Problems (Brute / Better / Optimal)
 
