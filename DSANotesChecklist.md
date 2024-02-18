@@ -1,9 +1,10 @@
-# DSA Notes CheckList
+# DSA Notes Checklist
 
-## 1. Data Structure - Stack, Queue, Graph
-## 2. Algorithm - Binary Search, Rabbit-here technique
-## 3. Theory - Class, Objects, etc
-## 4. Problems (Brute / Better / Optimal)
+## What to cover?
+### 1. Data Structure - Stack, Queue, Graph
+### 2. Algorithm - Binary Search, Rabbit-here technique
+### 3. Theory - Class, Objects, etc
+### 4. Problems (Brute / Better / Optimal)
 
 ## A. Data Structure:
 ### 1. Use a diagram and try to label its special property.
